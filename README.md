@@ -1,1 +1,1 @@
-# positronjs
+# PositronJS
